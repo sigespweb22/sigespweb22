@@ -9,8 +9,9 @@ Hello! Welcome to my profile
 - ❤️ Passionate about life, emotions, sensations and dogs 🐕
 - 🙋 And I like people a little too
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=sigespweb22&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigespweb22&layout=compact&hide=html&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" dir="auto">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=sigespweb22&show_icons=true&theme=merko" style="max-width: 100%;">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigespweb22&layout=compact&hide=html&theme=merko" style="max-width: 100%;"></a>
+ </div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sigespweb22&repo=boxapp-api&theme=merko&show_owner=true)](https://github.com/sigespweb22/boxapp-api) -->

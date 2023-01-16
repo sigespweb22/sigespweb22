@@ -10,8 +10,8 @@ Hello! Welcome to my profile
 - 🙋 And I like people a little too
 
 <div align="center" dir="auto">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sigespweb22&show_icons=true&theme=merko" style="max-width: 100%;">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigespweb22&layout=compact&theme=merko" style="max-width: 100%;"></a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sigespweb22&show_icons=true" style="max-width: 100%;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigespweb22&layout=compact" style="max-width: 100%;"></a>
 </div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sigespweb22&repo=boxapp-api&theme=merko&show_owner=true)](https://github.com/sigespweb22/boxapp-api) -->

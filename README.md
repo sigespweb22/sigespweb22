@@ -2,7 +2,7 @@ Hello! Welcome to my profile
 
 ![tumblr_nxt7cy8nTI1ujc8y9o1_400](https://user-images.githubusercontent.com/109520132/198833703-14c2023a-d6c1-45eb-8b6d-64c14f5c3e3d.gif)
 
-🚵 Viver é como andar de bicicleta. É preciso estar em constante movimento para manter o equilíbrio | Albert Einstein
+🚵 Living is like riding a bicycle. You have to be in constant motion to keep your balance | Albert Einstein
 
 👷 I'm a Software Architect
 📚 A regular reader

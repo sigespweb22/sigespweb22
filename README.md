@@ -16,6 +16,4 @@ Hello! Welcome to my profile
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigespweb22&layout=compact&theme=merko" style="max-width: 100%;"></a>
 </div>
 
-![Snake animation](https://github.com/sigespweb22/sigespweb22/blob/output/github-contribution-grid-snake.svg)
-
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sigespweb22&repo=boxapp-api&theme=merko&show_owner=true)](https://github.com/sigespweb22/boxapp-api) -->
